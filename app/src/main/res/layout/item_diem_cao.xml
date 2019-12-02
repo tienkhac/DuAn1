@@ -44,7 +44,7 @@
                 android:id="@+id/txtTen"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Họ và tên: Bùi Tuấn Đạt"
+                android:text="Họ và tên: Nguyễn Khắc Tiến"
                 android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
